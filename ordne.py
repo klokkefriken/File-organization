@@ -7,13 +7,13 @@
 import os
 import shutil
 
-dir1 = "/home/optimal/Documents/wallpapers/"
-dir2 = "/home/optimal/Documents/"
-dir3 = "/home/optimal/Documents/python/"
-dir4 = "/home/optimal/Documents/zip/"
-dir5 = "/home/optimal/Documents/sh/"
-dir6 = "/home/optimal/Documents/deb/"
-dir7 = "/home/optimal/Documents/other files/"
+dir1 = "//"
+dir2 = "/"
+dir3 = "//"
+dir4 = "//"
+dir5 = "//"
+dir6 = "//"
+dir7 = "//"
 
 
 
